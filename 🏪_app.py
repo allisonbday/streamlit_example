@@ -30,7 +30,7 @@ doc_types = ["invoice", "receipt"]
 def get_and_clean_api():
     from src.api.read_pos import ReadJSON
 
-    path = r"src\api\pos.json"
+    path = r"pos.json"
     f = open(path)
     data = json.load(f)
     out = ReadJSON(data)
