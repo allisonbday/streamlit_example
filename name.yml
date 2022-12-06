@@ -1,0 +1,21 @@
+categories : [
+  'Baby',
+ 'Office Products',
+ 'Amazon Devices & Accessories',
+ 'Digital Educational Resources',
+ 'Cell Phones & Accessories',
+ 'Digital Educational Resources',
+ 'Software',
+ 'Beauty & Personal Care',
+ 'Video Games'
+ ]
+
+vendors : [
+    "The Pawned Prawn",
+    "The Scorched Hammer",
+    "Gray Pine Goods",
+    "Radiant Raiment",
+    "Belethor's General Goods",
+    "Birna's Oddments",
+    "Bits and Pieces",
+]

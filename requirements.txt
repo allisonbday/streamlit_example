@@ -1,0 +1,7 @@
+pandas
+json
+re
+yaml
+streamlit
+streamlit-aggrid
+st-annotated-text
