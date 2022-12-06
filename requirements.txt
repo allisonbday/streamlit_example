@@ -1,5 +1,4 @@
 pandas
-re
 yaml
 streamlit
 streamlit-aggrid
