@@ -75,7 +75,7 @@ def wrangle_lineitems(api_data, selected_po_id):
 # PULL JSON FUNCTIONS ---------------------------------------------------------
 
 # numcheck - https://www.ag-grid.com/javascript-data-grid/cell-editors/#example-rich-cell-editor--dynamic-parameters
-with open("javascript\numcheck.js") as f:
+with open(r"javascript\numcheck.js") as f:
     numcheck = f.read()
 numcheck_jscode = JsCode(numcheck)
 
