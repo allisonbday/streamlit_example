@@ -28,7 +28,7 @@ doc_types = ["invoice", "receipt"]
 
 @st.cache
 def get_and_clean_api():
-    from src.api.read_pos import ReadJSON
+    from read_pos import ReadJSON
 
     path = r"pos.json"
     f = open(path)
