@@ -1,5 +1,5 @@
 pandas
-yaml
+pyyaml
 streamlit
 streamlit-aggrid
 st-annotated-text
